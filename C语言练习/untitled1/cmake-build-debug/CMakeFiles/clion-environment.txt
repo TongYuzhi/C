@@ -1,0 +1,4 @@
+ToolSet: w64 5.0 (local)@C:\Users\AmorCoin\Documents\Tencent Files\619813095\FileRecv\x86_64-7.2.0-posix-seh-rt_v5-rev0\mingw64
+Options: 
+
+Options:
